@@ -1,6 +1,6 @@
 # DiscordBot
 
-A modular Discord bot built in Python using the `discord.py` library, created for learning, experimentation, and personal use.  
+A modular Discord application built in Python using the `discord.py` library, created for learning, experimentation, and personal use.  
 The bot is not publicly available or intended for external deployment.
 
 ## Functionalities
